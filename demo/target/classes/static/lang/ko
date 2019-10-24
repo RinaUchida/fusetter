@@ -1,0 +1,334 @@
+common.maintenance=유지 보수 중입니다. 잠시 기다려주십시오.
+
+common.language=한국어
+common.fuse_char=○
+
+common.meta.title=fusetter
+common.meta.description=트위터에 숨김표로 트윗 할 수 있는 마법 같은 서비스
+common.meta.keywords=숨김표, Twitter관련 서비스, fusetter
+
+common.link.agreement=이용 규약
+common.link.privacy=개인정보 취급방침
+common.link.company=운영회사
+common.link.contact=질문 및 문의는@fusetter로
+
+common.top.link=홈으로
+common.useAnotherAccount.link=다른 계정을 사용
+common.logout.link=로그아웃
+common.login.link=프세터에 로그인
+common.login.comment=트위터 인증이 필요합니다
+common.twitter_auth.link=연계 애플리케이션 인증이 불안하신 분은 여기를 읽어보세요.
+
+common.step=STEP
+
+common.type.myself=자신만
+common.type.all=누구든지
+common.type.follower=팔로워
+common.type.friend=맞팔
+common.type.retweet=리트윗한 사람
+common.type.mention=@가 붙은 사람
+common.type.list=리스트
+common.type.list_prefix=「
+common.type.list_suffix=」
+
+common.fussage.date_format=yyyy.M.d H:mm
+
+common.error.000=
+common.error.401=
+common.error.403=
+common.error.404=
+common.error.405=
+common.error.500=
+
+common.loading.text=로딩 중 ...
+common.view.unit=view
+
+common.note=추가
+common.edited=수정됨
+
+common.tweet=트윗하기
+common.original_tweet=Original Tweet
+
+
+
+menu.tweet=트윗하기
+menu.mypage=마이 페이지
+
+
+top.service_tip.part1=스포일러 공개의 우려가 있는 내용은,
+top.service_tip.part2=살짝 감추는
+top.service_tip.part3= 배려!
+
+top.tweet=트윗
+
+top.login_button.text=프세터 이용하기！
+top.login_button.comment=이용하실 때는 트위터 계정이 필요합니다
+
+top.article1_1.subject=만화나 게임 발매일에…….
+top.article1_1.contents=<p>“미리 말하면 재미없으니까 트윗은 좀 자제하는게 낫겠지?” 이럴 때, 글의 일부를 숨겨서 트윗 할 수 있는 마법 같은 서비스</p>
+top.article1.sample=<p>예를 들어, 프세터를 이용하면 이렇게 트윗 할 수 있습니다</p>
+
+top.article1_2.subject=긴 문장의 트윗에도 적합합니다
+top.article1_2.contents=<p>트윗 하나에 100000문자를 쓸 수 있으니까 소설도 쓸 수 있습니다</p>
+
+top.article1_3.subject=많은 사용자들에게 증명된 인기!
+top.article1_3.contents=<p>2012년에 태어난 프세터는 지금까지 무려 1400만명이 이용했습니다</p>
+
+top.article2.subject=프세터는 무엇에 사용하는 건가요? 궁금하신 분이라면
+top.article2.sub_title=－ 12초만에 이해할 수 있는 프세터 －
+
+top.article3.subject=사용법은 굉장히 쉽습니다
+top.article3.contents=<p>프세터는 PC로도 스마트폰으로도 누구나 간편하게 사용할 수 있습니다</p>
+top.article3.tutorial_button.text=사용법을 알아보자!
+
+top.article4.subject=프세터 공식 트위터 계정
+top.article4.contents=<p>“프세타”가 프세터서비스에 관하는 것들을 트윗하고 있어요</p>
+
+
+
+
+
+
+
+language.meta.title=언어 설정
+language.message=언어를 선택하십시오.
+language.item.ja=日本語
+language.item.ko=한국어
+language.item.en=English (United States)
+language.item.zh=中文(繁体)
+language.item.fr=Français
+
+
+
+
+home.meta.title=홈
+home.step1.caption=숨김표트윗을 만들어보자
+home.step1.text=[&nbsp;]안의 글자가 숨김표로 바뀝니다.
+home.step1.sample_text=오늘 [강남역]에서 보자!
+home.step1.add_brackets=[ ]를 추가
+home.step1.preview_text=숨김표 미리보기(Twitter에서 보이는 내용입니다)
+home.step1.note_link=더 쓰기
+home.step1.note_link_comment=“추가”로 최대100000문자!
+home.step1.note_caption=부족한 내용을 여기에 추가하세요(최대100000문자)
+home.step1.note_text=트윗내에 다 못 쓴 내용은 여기에 쓰세요
+home.step1.note_sample_link=추가한 부분은 이렇게 표시됩니다
+home.step1.preview_link=실시간 미리보기 사용
+home.step1.preview_hide_link=숨기기
+
+home.step2.caption=공개 범위를 선택하세요
+home.step2.text=1에서 쓴 숨김표의 내용과 추가글의 공개범위를 결정합니다
+
+home.scope.all.description=누구든지OK,Twitter하지 않는 사람도OK
+home.scope.follower.description=나를 팔로우 한 사람은OK
+home.scope.friend.description=나와 맞팔한 사람은OK
+home.scope.mention.description=@가 붙은 사람이 없습니다.
+home.scope.myself.description=자신만OK,다른 사람은NO
+home.scope.retweet.description=숨김표트윗을 리트윗한 사람은OK
+
+home.scope.load_list=리스트에서 선택
+home.scope.reload_list=리스트를 다시 불러오기
+home.scope.load_list_description=트위터에서 작성한 공개 리스트에 포함되는 유저를 공개 범위로 고를 수 있습니다.
+home.list.api_error=Twitter API의 사용 횟수 제한 초과입니다.(15분에 15회까지)<br/>. 잠시후 다시 시도해 주세요.
+home.scope.no_list=리스트가 없습니다. Twitter에서 공개 리스트를 작성하면 리스트의 멤버에게 숨김표트윗이 가능합니다.
+
+home.step3.caption=트윗 내보내기
+home.step3.text=어떻게 표시 되는지 미리 확인 할 수 있습니다
+home.step3.confirm_button=미리보기 후 트윗하기
+home.step3.post_button=지금 바로 트윗하기
+
+home.sope.list.text_prefix=리스트「
+home.sope.list.text_suffix=」에 포함된 사람은OK
+
+home.tweet.empty_message=트윗을 입력해 주세요.
+home.tweet.tweet_over_message=116글자 이내로 입력해 주세요.
+home.tweet.no_scope_message=공개 범위를 선택 해주세요
+home.tweet.no_mension_message=@붙은 사람을 입력해 주세요.
+home.tweet.no_fuse_message=숨기지 않아도 돼?
+home.tweet.note_over_message=추가글은 5,000자 이내로 입력해 주세요.
+
+home.mestion.no_mension=@가 붙은 사람이 없습니다.
+home.mestion.mension_prefix=
+home.mestion.mension_suffix=은/는OK
+
+
+confirm.meta.title=트윗 내용 확인
+confirm.message=트윗할 내용을 확인해 주세요
+confirm.twitter.message=<span>다음의 내용을</span> 트윗<span>합니다</span>
+confirm.twitter.hint=http://fse.tw/xxxxx 링크를 클릭하면 프세터 사이트에 이동하여 아래의 내용이 표시됩니다
+confirm.fusetter.message=프세터에<span>서는 아래와 같이 표시 됩니다</span>
+confirm.scope=공개 범위
+confirm.modify.button=수정하기
+confirm.tweet.button=지금 바로 트윗하기
+
+
+
+
+mypage.meta.title=마이 페이지
+mypage.archive.all_label=모든
+mypage.archive.yyyymm_format=yyyy.M
+mypage.old.section=과거의 트윗
+mypage.old.no_entry=트윗이 없습니다
+mypage.old.load_next=더 보기
+mypage.archive.section=기록 보관소
+mypage.delete.confirm=이 트윗을 삭제 하겠습니까?(Twitter에서도 삭제 됩니다)
+mypage.delete.button=삭제
+mypage.loading_failed.text=로드 실패 ...
+mypage.load_list.link=리스트에서 선택
+mypage.reload_list.link=리스트를 다시 불러오기
+mypage.modify.button=편집
+mypage.saved.message=저장하였습니다
+mypage.save.button=저장
+mypage.cancel.button=취소
+mypage.readmore=더 읽기
+mypage.readmore.close=닫기
+
+
+logout.meta.title=로그 아웃
+logout.message=프세터에서 로그아웃 되었습니다.
+
+complete.meta.title=트윗을 내보냈습니다
+complete.message.first=첫번째 숨김표 트윗을 축하합니다!
+complete.message.max=4
+complete.message.1=트윗 했어! 항상 감사합니다☆
+complete.message.2=트윗 했어! <br>추가 기능을 사용하면 최대100000문자까지 쓸 수 있어요！
+complete.message.3=트윗 했어! <br>마이페이지에서 지금까지의 숨김표 트윗을 확인할 수 있어요
+complete.message.4=트윗 했어! <br>공개범위를 “모든 사람”으로 하면 트위터인증을 하지 않아도 숨김표를 읽을 수 있어요
+complete.fuseta.caption=“프세타”를 아시나요?
+complete.fuseta.message=프세터 공식 계정에서는 ”프세타”가 프세터에 관한 것들을 가끔 트윗 하고 있어요
+complete.fuseta.link=여기서 팔로잉할 수 있습니다
+complete.next.button=추가로 트윗하기
+complete.delete_hint.prefix=내보낸 트윗은
+complete.delete_hint.text=“마이페이지”
+complete.delete_hint.suffix=에서 삭제할 수 있습니다
+
+
+
+
+show_common.note.prefix=추가된 글이
+show_common.note.suffix=문자 있습니다
+show_common.top_link.prefix=프세터에 대해서는
+show_common.top_link.text=“메인화면”
+show_common.top_link.suffix=을 참고하세요
+show_common.home_link.text=숨김표로 트윗하기
+show_common.twittercard_title=공개 범위:
+show_common.twittercard_description=트위터에 숨김표로 트윗 할 수 있는 마법 같은 서비스
+
+show_auth.title.prefix=@
+show_auth.title.suffix=씨의 숨김표 트윗
+show_auth.message=숨겨진 내용을 보기 위해서는  Twitter의 인증이 필요합니다.<br>숨김표트윗의 공개 범위에 따라서는 볼 수 없을 수도 있습니다.
+show_auth.show.button=숨겨진 내용을 보기!
+
+show.title.prefix=@
+show.title.suffix=씨의 숨김표 트윗
+show.tutorial_button.text=사용법을 알아보자!
+
+show_sorry.title.prefix=@
+show_sorry.title.suffix=씨의 숨김표 트윗
+show_sorry.message=미안합니다. 당신에게는 보여줄 수 없습니다.
+show_sorry.follow_hint.prefix=
+show_sorry.follow_hint.suffix=씨를 팔로잉하시면 볼 수 있습니다
+show_sorry.retweet_hint=숨겨진 내용은 리트윗 하면 볼 수 있어요
+
+
+show_limit_over.title.prefix=@
+show_limit_over.title.suffix=씨의 숨김표 트윗
+show_limit_over.message.prefix=TwitterAPI의 사용 횟수 제한 초과입니다.(15분에 15회까지)<br>TwitterAPI를 이용하려면
+show_limit_over.message.suffix=분 후 다시 시도해 주세요
+
+
+
+
+error.meta.title=오류
+
+agreement.meta.title=이용 규약
+privacy.meta.title=개인정보 취급방침
+
+company.meta.title=운영회사
+company.caption=운영회사 소개
+company.message=<p>주식회사 신흥테크노미스트는 「컨설팅」, 「시스템 구축」, 「시스템 개발」, 「시스템 운용」의 4개 사업분야에 주력한 IT토탈 솔루션 컴퍼니입니다.</p><p>신흥테크노미스트는 1930년 창업이래 일본의 정보통신산업의 진화와 함께 해 왔습니다. 이 긴 역사동안 신흥테크노미스트의 근저(根底)에는 항상 "고객이 기대하는 그 이상의 서비스를 제공한다" 라는 비전이 있었습니다.</p><p>신흥테크노미스트는 창업 80주년을 넘은 지금도 새로운 일에 계속 도전하고 있으며, 고객이 기대하는 그 이상의 서비스를 제공함과 동시에 IT를 통한 살기 좋은 사회 건설에 공헌하기 위해 끊임없이 활동하고 있습니다.</p>
+company.link=신흥테크노미스트의 홈 페이지로
+
+
+tutorial.meta.title=프세터 사용법
+tutorial.title=프세터 사용법
+tutorial.step1.title=1.로그인 하기
+tutorial.step1.text=<p>프세터는 트위터 계정만 있으면 누구나 쉽게 사용할 수 있습니다.</p>
+tutorial.step2.title=2.연계 애플리케이션을 허가해 주세요.
+tutorial.step3.title=3.숨김표를 입력해서 트윗을 해봅시다！
+tutorial.last.message=사용법은 이해 하셨나요? 만약 불명 한 점이 있으면, 부담없이 <a href="https://twitter.com/fusetter" target="_blank">@fusetter</a> 까지 멘션주세요.
+
+
+twitter_auth.meta.title=연계 애플리케이션의 인증
+twitter_auth.title=연계 애플리케이션의 인증
+twitter_auth.text=<p>사용자의 동의없이 다른 사람을 팔로잉하거나, 프로필을 변경하는 일은 절대 없으므로 안심하세요. (트위터에서는 이 네가지 동작이 하나로 묶여있기에 “트윗하기”만 허가할 수 없습니다)</p>
+
+
+
+
+
+
+mypage.scope.balloon_title=마이페이지를 공개하시겠습니까?
+mypage.scope.balloon_message=마이페이지를 공개하면 당신의 트위터 일람을 전용 URL에서 읽을 수 있습니다.<br>현재 ‘비공개’로 설정되어있습니다.<br>마이페이지를 공개해도 각 트위터의 공개범위는 유효합니다.
+
+mypage.scope.public=공개하기
+mypage.scope.private=공개하지 않기
+mypage.scope_state.public=공개 중
+mypage.scope_state.private=비공개
+mypage.public.url=공개용 마이페이지 URL:
+
+mypage.set_scope.failed_message=공개 범위 변경에 실패했습니다
+mypage.scope.label=마이 페이지:
+
+userpage.title.prefix=@
+userpage.title.suffix=트윗 목록
+
+userpage.message_caption.prefix=@
+userpage.message_caption.suffix=트윗 목록
+userpage.message=트위터 일람을 보려면 Twitter의 인증이 필요합니다. 트위터를 비공개로 하면 팔로우하고 있는 분만 볼 수 있습니다.
+
+userpage.auth_button.prefix=@
+userpage.auth_button.suffix=님 트위터 일람 보기
+
+userpage.api_error=Twitter API의 사용 횟수 제한 초과입니다.(15분에 15회까지)<br/>. 잠시후 다시 시도해 주세요.
+userpage.favorite.hint=이 페이지는 북마크에 추가 할 수 있습니다
+show_common.userpage_link.text_prefix=@
+show_common.userpage_link.text_suffix=님 트위터를 더 보기
+
+mypage.use_views.label=조회 수:
+mypage.use_views.on=보기
+mypage.use_views.off=표시하지
+mypage.set_scope.failed_message=설정 변경에 실패했습니다
+
+
+
+
+
+
+
+
+
+menu.favorite=관심글
+favorite.title=관심글
+favorite.message=즐겨 찾기에 등록한 숨김표트윗
+favorite.no_entry=트윗이 없습니다
+
+home.draft_confirm_message=트윗의 초안은 남아있다. 자세히 씁니까?
+
+show.pr_message.max=4
+show.pr_message.1=추가 기능을 사용하면 최대100000문자까지 쓸 수 있어요！
+show.pr_message.2=마이페이지에서 지금까지의 숨김표 트윗을 확인할 수 있어요
+show.pr_message.3=공개범위를 “모든 사람”으로 하면 트위터인증을 하지 않아도 숨김표를 읽을 수 있어요
+show.pr_message.4=프세터는 지금까지 무려 1400만명이 이용했습니다
+
+home.tweet_mode.label=트윗 모드
+home.tweet_mode.standard=표준 모드
+home.tweet_mode.simple=심플 모드
+home.tweet_mode.switch_to_standard=표준 모드로 전환
+home.tweet_mode.switch_to_simple=간단 모드로 전환
+
+
+simple.meta.title=심플 모드
+simple.step.caption=숨김표트윗을 만들어보자
+simple.post_button=지금 바로 트윗하기
+simple.text.hint=2 행째 이후가 자동으로 복자됩니다. 공개 범위는 "팔로워"입니다.
+simple.text.sample=이곳은 복자가되지\n여기에서 복자

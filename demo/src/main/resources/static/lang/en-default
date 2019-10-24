@@ -1,0 +1,333 @@
+common.maintenance=fusetter is maintenance. Please wait.
+
+common.language=English
+common.fuse_char=*
+
+common.meta.title=fusetter
+common.meta.description=A magical service that makes a masked twitter possible
+common.meta.keywords=spoiler,Twitter,service,fusetter
+
+common.link.agreement=Website Terms of Use
+common.link.privacy=Privacy Policy
+common.link.company=Company
+common.link.contact=Contact us at @fusetter.
+
+common.top.link=To Top Page
+common.useAnotherAccount.link=Use another account
+common.logout.link=Logout
+common.login.link=Log into fusetter
+common.login.comment=Twitter authentication is required
+common.twitter_auth.link=For those of you uneasy about granting access to linked applications, please read here.
+
+common.step=STEP
+
+common.type.myself=To myself
+common.type.all=All
+common.type.follower=Followers
+common.type.friend=Mutual followers
+common.type.retweet=Retweeted
+common.type.mention=Mentions
+common.type.list=list
+common.type.list_prefix=&quot;
+common.type.list_suffix=&quot;
+
+common.fussage.date_format=MMM/d/yyyy H:mm
+
+common.error.000=
+common.error.401=
+common.error.403=
+common.error.404=
+common.error.405=
+common.error.500=
+
+common.loading.text=Loading ...
+common.view.unit=view
+
+common.note=postscript
+common.edited=Edited
+
+common.tweet=tweet
+common.original_tweet=Original Tweet
+
+
+menu.tweet=Tweet
+menu.mypage=My Page
+
+
+top.service_tip.part1=If it may to end up being a spoiler, use a little
+top.service_tip.part2=buffer
+top.service_tip.part3=in consideration of others!
+
+top.tweet=Tweet
+
+top.login_button.text=Try using fusetter!
+top.login_button.comment=A Twitter account is required for this use
+
+top.article1_1.subject=On the release date of comics or games...
+top.article1_1.contents=<p>"Should I hold back on tweeting since it would be a spoiler for others...?" At a time like this, use this magical service that can tweet masked</p>
+top.article1.sample=<p>For example, by using fusetter, you can tweet like this</p>
+
+
+top.article1_2.subject=Able to handle long message uploads
+top.article1_2.contents=<p>Since it can write impressive 100000 letters in one tweet, you can use it for writing a novel.</p>
+
+top.article1_3.subject=Surprisingly popular
+top.article1_3.contents=<p>Fusetter has been used by ＼14,000,000／ people.</p>
+
+top.article2.subject=For those of you wondering, "what can fusetter be used for?"
+top.article2.sub_title=－ A rough fusetter guide in 12 seconds －
+
+top.article3.subject=How to use is super easy
+top.article3.contents=<p>Fusetter can be used from PC or Smartphone easily and by anybody</p>
+top.article3.tutorial_button.text=See how to use it!
+
+top.article4.subject=Official fusetter Twitter account
+top.article4.contents=<p>"Fuseta" tweets about fusetter services</p>
+
+
+
+
+
+
+
+language.meta.title=Language settings
+language.message=Please select a language.
+language.item.ja=日本語
+language.item.ko=한국어
+language.item.en=English (United States)
+language.item.zh=中文(繁体)
+language.item.fr=Français
+
+
+
+
+home.meta.title=Home
+home.step1.caption=Masked words in your tweet. (Have fun)
+home.step1.text=Bracket letters with [&nbsp;] to hide them.
+home.step1.sample_text=Let’s meet at [Shibuya station] today
+home.step1.add_brackets=Add [ ]
+home.step1.preview_text=Preview of your tweeted result (The following will appear on the Twitter site)
+home.step1.note_link=Write more
+home.step1.note_link_comment=Maximum of 100000 letters with "postscript"
+home.step1.note_caption=For anything that cannot fit in, add with postscript (maximum 100000 letters)
+home.step1.note_text=Anything that cannot fit within tweet, write here&nbsp;
+home.step1.note_sample_link=Postscript would look like this
+home.step1.preview_link=Enable real-time preview
+home.step1.preview_hide_link=Hide
+
+home.step2.caption=Choose disclosure range
+home.step2.text=Decide the contents of masked section out of what was written in 1 and who should view the postscript
+
+home.scope.all.description=Disclosed to everyone including those with no twitter account
+home.scope.follower.description=Disclosed to your followers
+home.scope.friend.description=Disclosed to mutual followers
+home.scope.mention.description=No entry of account names including @
+home.scope.myself.description=Disclosed to yourself only
+home.scope.retweet.description=Disclosed to those who have retweeted your masked tweet
+
+home.scope.load_list=Choose from the list
+home.scope.reload_list=Reload the list
+home.scope.load_list_description=It is possible to select users in the "disclosure list" created within Twitter as the disclosure range
+home.list.api_error=Reaching the upper limit of the Twitter API (15 times in 15 minutes). <br/>Please wait for reloading.
+home.scope.no_list=No list found. With an open list on the twitter, you can send masked tweets to the list members.
+
+home.step3.caption=Let us tweet in Twitter
+home.step3.text=How it would be displayed can be checked before tweeting
+home.step3.confirm_button=Tweet after preview
+home.step3.post_button=Tweet now
+
+home.sope.list.text_prefix=Permitting access of those in the &quot;
+home.sope.list.text_suffix=&quot; list
+
+home.tweet.empty_message=Enter some letters
+home.tweet.tweet_over_message=Up to 116 letters are allowed
+home.tweet.no_scope_message=Select the disclosure range
+home.tweet.no_mension_message=Enter those with @ in their accounts
+home.tweet.no_fuse_message=No words are masked. Are you sure?
+home.tweet.note_over_message=Postscript doesn't tweet. Please input 5,000 characters or less.
+
+home.mestion.no_mension=No entry of account names including @
+home.mestion.mension_prefix=Disclosed to
+home.mestion.mension_suffix=
+
+
+confirm.meta.title=Check the contents of tweet
+confirm.message=Please confirm the contents of tweet
+confirm.twitter.message=<span>Below contents will be uploaded to</span> Twitter
+confirm.twitter.hint=If you click on http://fse.tw/xxxxx link, you will move to fusetter website and below contents will be displayed
+confirm.fusetter.message=<span>It will be displayed as below in</span> fusetter
+confirm.scope=Disclosure range
+confirm.modify.button=Amend
+confirm.tweet.button=Tweet now
+
+
+
+
+mypage.meta.title=My page
+mypage.archive.all_label=All
+mypage.archive.yyyymm_format=M/yyyy
+mypage.old.section=Earlier tweets
+mypage.old.no_entry=There is no tweet
+mypage.old.load_next=Read next
+mypage.archive.section=Archives
+mypage.delete.confirm=Delete this tweet? (Your tweet on the official account will also be deleted.)
+mypage.delete.button=Delete
+mypage.loading_failed.text=Load failed ...
+mypage.load_list.link=Choose from the list
+mypage.reload_list.link=Reload the list
+mypage.modify.button=Edit
+mypage.saved.message=Saved
+mypage.save.button=Save
+mypage.cancel.button=Cancel
+mypage.readmore=read more
+mypage.readmore.close=Close
+
+
+logout.meta.title=Logout
+logout.message=Logged out from fusetter
+
+complete.meta.title=Tweeted
+complete.message.first=Tweeted. Congratulations on your first masked tweet!
+complete.message.max=4
+complete.message.1=Tweeted! Thank you as always☆
+complete.message.2=Tweeted!<br>By using postscript, you can write up to 100000 letters!
+complete.message.3=Tweeted!<br>You can see your earlier masked tweets from My Page
+complete.message.4=Tweeted!<br>If you set disclosure range to be "All", masked contents can be read without Twitter authentication
+complete.fuseta.caption=Do you know "Fuseta"?
+complete.fuseta.message=In the official Twitter account of fusetter, once in a loooong while, "Fuseta" tweets about fusetter
+complete.fuseta.link=You can follow from here
+complete.next.button=Tweet more
+complete.delete_hint.prefix=Uploaded tweets can be deleted from "
+complete.delete_hint.text=My Page
+complete.delete_hint.suffix="
+
+
+
+
+show_common.note.prefix=There are
+show_common.note.suffix=letters of postscript
+show_common.top_link.prefix=If you wish to learn more about fusetter, please see "
+show_common.top_link.text=Top Page
+show_common.top_link.suffix="
+show_common.home_link.text=Tweet with masked words
+show_common.twittercard_title=Disclosure range:
+show_common.twittercard_description=A magical service that makes a masked twitter possible
+
+show_auth.title.prefix=Masked tweet by @
+show_auth.title.suffix=
+show_auth.message=Twitter authentication is required to see.<br>You may not able to see it, depending on the range of disclosure.
+show_auth.show.button=View the hidden letters
+
+show.title.prefix=Masked tweet by @
+show.title.suffix=
+show.tutorial_button.text=See how to use it!
+
+
+show_sorry.title.prefix=Masked tweet by @
+show_sorry.title.suffix=
+show_sorry.message=Sorry, you are not allowed to read it...
+show_sorry.follow_hint.prefix=If you follow
+show_sorry.follow_hint.suffix=, you can read it
+show_sorry.retweet_hint=Retweet this tweet to view the hidden letters.
+
+
+show_limit_over.title.prefix=Masked tweet by @
+show_limit_over.title.suffix=
+show_limit_over.message.prefix=Reaching the upper limit of the Twitter API (15 times in 15 minutes).<br>Reloading takes about
+show_limit_over.message.suffix=minutes
+
+
+
+
+error.meta.title=Error
+
+agreement.meta.title=Website Terms of Use
+privacy.meta.title=Privacy Policy
+
+company.meta.title=OUR COMPANY
+company.caption=OUR COMPANY
+company.message=<p>Shinko Technomist is a total IT solution company focused on four business fields: Consulting, system building, system development and system operation.</p><p>Since its establishment in 1930, our company has made steady steps in tune with the development of Japanese information technology industry. The philosophy underlying our company’s long history is to exceed customers’ expectations in our offering of services.</p><p>Beyond the 80 years of history, we will keep making new trials and offering more-than-expected services to the customers while contributing to the making of an affluent society with IT technology.</p>
+company.link=Shinko Techmonist Co.
+
+
+tutorial.meta.title=How to use fusetter
+tutorial.title=How to use fusetter
+tutorial.step1.title=1. Let’s log in!
+tutorial.step1.text=<p>Fusetter can be used easily by anybody, as long as the person has a Twitter account</p>
+tutorial.step2.title=2.Grant access to the connected application!
+tutorial.step3.title=3. Input masked words and tweet!
+tutorial.last.message=Did you understand how to use ? If there is any questions, then please reply to <a href="https://twitter.com/fusetter" target="_blank">@fusetter</a> willingly
+
+
+twitter_auth.meta.title=Granting access to the connected application
+twitter_auth.title=Granting access to the connected application
+twitter_auth.text=<p>Have no fear, this will never follow others without permission, or change your profile without approval (since those four operations are a set in Twitter, you cannot permit only "tweet"....)</p>
+
+
+
+
+
+mypage.scope.balloon_title=Want to disclose your 'My Page' to the public?
+mypage.scope.balloon_message=If you disclose your 'My Page' to public, the list of your tweets will be accessible through specific URL.<br>Currently, it is set 'private'.<br>If you make your ‘My Page’ public, the disclosure range of your each tweet will remain valid.
+
+mypage.scope.public=Disclose
+mypage.scope.private=Don't disclose
+mypage.scope_state.public=Public
+mypage.scope_state.private=Private
+mypage.public.url=URL for publicized 'My Page':
+
+mypage.set_scope.failed_message=Disclosure range change failed
+mypage.scope.label=My Page:
+
+userpage.title.prefix=Tweets by @
+userpage.title.suffix=
+
+userpage.message_caption.prefix=Tweets by @
+userpage.message_caption.suffix=
+userpage.message=To view the whole list of the tweets, you need an authorization from Twitter.<br>When you are setting your tweets private, only your followers can view them.
+
+userpage.auth_button.prefix=View the list of the tweets of @
+userpage.auth_button.suffix=
+
+userpage.api_error=Reaching the upper limit of the Twitter API (15 times in 15 minutes). <br/>Please wait for reloading.
+userpage.favorite.hint=You can add to bookmark this page.
+show_common.userpage_link.text_prefix=View more tweets of @foo
+show_common.userpage_link.text_suffix=
+
+mypage.use_views.label=Number of views:
+mypage.use_views.on=Display
+mypage.use_views.off=Hidden
+mypage.set_scope.failed_message=Number of views change failed
+
+
+
+
+
+
+
+
+menu.favorite=Favorites
+favorite.title=Favorites
+favorite.message=Masked tweets that have been registered as favorites
+favorite.no_entry=There is no tweet
+
+home.draft_confirm_message=Draft of the tweet has remained. Do you write more?
+
+show.pr_message.max=4
+show.pr_message.1=By using postscript, you can write up to 100000 letters!
+show.pr_message.2=You can see your earlier masked tweets from My Page
+show.pr_message.3=If you set disclosure range to be "All", masked contents can be read without Twitter authentication
+show.pr_message.4=Fusetter has been used by ＼14,000,000／ people.
+
+home.tweet_mode.label=Tweet mode:
+home.tweet_mode.standard=Standard mode
+home.tweet_mode.simple=Simple mode
+home.tweet_mode.switch_to_standard=Switch to standard mode
+home.tweet_mode.switch_to_simple=Switch to simple mode
+
+
+simple.meta.title=Simple mode
+simple.step.caption=Masked words in your tweet. (Have fun)
+simple.post_button=Tweet now
+simple.text.hint=Second and subsequent lines will be masked words automatically. Disclosure range will be "followers".
+simple.text.sample=Here is not to masked letters\nMasked words from here

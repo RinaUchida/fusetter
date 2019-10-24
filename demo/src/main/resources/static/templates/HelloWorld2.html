@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Hello World demo</title>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+</head>
+<body>
+	<div id="app">
+		<h1>{{ message }}</h1>
+	</div>
+
+	<script>
+		new Vue({
+			el : '#app',
+			data : {
+				message : 'Not Rest'
+			},
+			mounted :function(){
+		    axios.get('http://localhost:8080/api/items')
+		          .then(response => this.message = response.data)
+		          .catch(response => console.log(response))
+		  }
+		})
+	</script>
+
+</body>
+</html>

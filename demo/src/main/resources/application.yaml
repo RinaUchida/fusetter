@@ -1,0 +1,41 @@
+#READレプリカの設定
+spring:
+  datasource:
+    readOnly:
+      driverClassName: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://(host=localhost,port=3306)/fusetter?serverTimezone=JST
+      username: root
+      password: shinko-1930
+      minIdlePoolSize: 4
+      maximumPoolSize: 40
+      idleTimeout_ms: 300000
+      maxLifetime_ms: 1800000
+      connectionProperties: useUnicode=true;characterEncoding=utf-8;
+    updatable:
+      driverClassName: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://(host=localhost,port=3306)/fusetter?serverTimezone=JST
+      username: root
+      password: shinko-1930
+      minIdlePoolSize: 2
+      maximumPoolSize: 20
+      idleTimeout_ms: 300000
+      maxLifetime_ms: 1800000
+      connectionProperties: useUnicode=true;characterEncoding=utf-8;
+
+#ポートの修正
+#TODO 本当は8888（デフォルト8080でアクセスできないようにしたい）
+server:
+#  host: fusetter.com
+  port: 8888
+  #use-forward-headers: true
+  #servlet:
+  #  contextPath: /fusetter.com
+#  tomcat:
+#    useRelativeRedirects: true
+
+#ポートの修正
+tomcat:
+  ajp:
+    port: 8889
+
+

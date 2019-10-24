@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+div.article_block:first-child div.article:first-child {
+	border-top: none;
+}
+
+div.wrapper_inner {
+	padding: 20px 10px;
+}
+
+
+div.action_area_ad {
+	float: left;
+	margin-bottom: 20px;
+}
+
+div.action_area_buttons {
+	margin-top: 20px;
+}
+
+ul#menu a {
+	padding: 10px 20px;
+}
+
+/********************************************************************/
+/*
+ * home
+ */
+
+div.step_num {
+	font-size: 64px;
+	float: left;
+	margin-right: 0.2em;
+	color: #e6e6e6;
+}
+
+div.step_num_label {
+	margin-top: -10px;
+	font-size: 12px;
+}
+
+/********************************************************************/
+/*
+ * mypage
+ */
+
+div#mypage_sub {
+	margin-top: 20px;
+}
+
+div.mypage_tw_info {
+	padding-left: 20px;
+}
+
+div.mypage_tw_item {
+	padding: 20px;
+}
+/********************************************************************/
+/*
+ * show
+ */
+
+ div.fse_box {
+	padding: 20px;
+}
+/********************************************************************/
+/*
+ * confirm
+ */
+div.confirm_box {
+	padding: 20px;
+}

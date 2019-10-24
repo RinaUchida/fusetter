@@ -1,0 +1,337 @@
+common.maintenance=Maintenance en cours. Veuillez patienter. Merci pour votre compréhension
+
+common.language=Français
+common.fuse_char=*
+
+common.meta.title=fusetter
+common.meta.description=Un service pour twitter des messages dont une partie du contenu n'est visible que par
+les personnes que l'on souhaite!!! La fin des spoils et des interventions non désirées.
+common.meta.keywords=fusetter,Twitter
+
+common.link.agreement=Conditions d’utilisation
+common.link.privacy=Engagement de confidentialité
+common.link.company=Compagnie
+common.link.contact=Pour toutes questions à propos de @fusetter
+
+common.top.link=Accueil
+common.useAnotherAccount.link=Connectez-vous via un compte différent
+common.logout.link=Logout
+common.login.link=Login
+common.login.comment=Authentification à Twitter requise
+common.twitter_auth.link=Pour les utilisateurs inqiets de donner l'accès à ses applications , Lisez ce qui suit  (^ _ -)
+
+common.step=STEP
+
+common.type.myself=Seulement moi
+common.type.all=Tout le monde
+common.type.follower=Followers
+common.type.friend=Amis
+common.type.retweet=Utilisateur ayant retweeté
+common.type.mention=Mentionné un utilisateur
+common.type.list=Liste
+common.type.list_prefix=[
+common.type.list_suffix=]
+
+common.fussage.date_format=yyyy/M/d H:mm
+
+common.error.000=
+common.error.401=
+common.error.403=
+common.error.404=
+common.error.405=
+common.error.500=
+
+common.loading.text=Chargement...
+common.view.unit=Aperçu
+
+common.note=Notes
+common.edited=Edité
+
+common.tweet=Tweet
+common.original_tweet=Original Tweet
+
+
+menu.tweet=Tweets
+menu.mypage=Ma page d'accueil
+
+
+top.service_tip.part1=Arrêtez de spoiler,
+top.service_tip.part2=masquez
+top.service_tip.part3=　une partie de votre contenu. Pensez aux fans de la planète !!!
+
+top.tweet=Tweet
+
+top.login_button.text=Testez Fusetter !!!
+top.login_button.comment=Un compte twitter est requis pour pouvoir utiliser ce service.
+
+top.article1_1.subject=Pour les prochaines Mises à jour : Les mangas et les jeux vidéos
+top.article1_1.contents=<p>"Ce tweet va spoiler du monde... ? On va pas prendre de risque, utilisons fusetter pour masquer une partie du contenu "</p>
+top.article1.sample=<p>Petit exemple de l'utilisation de fusetter. Tu peux twitter comme çà.</p>
+
+top.article1_2.subject=Capable de gérer les longs messages
+top.article1_2.contents=<p>Depuis que l'on peut écrire des tweets contenant 100000 caractères, vous pouvez écrire de véritables nouvelles</p>
+
+top.article1_3.subject=Trés populaire !!
+top.article1_3.contents=<p> + de 14000000 d'utilisateurs O_O</p>
+
+top.article2.subject=Pour ceux d'entre vous qui se demandent, "à quoi sert fusetter?"
+top.article2.sub_title=En 12 secondes vous aller comprendre la puissance de fusetter
+
+top.article3.subject=Fonctionnement vraiment facile !!!
+top.article3.contents=<p>Fusetter peut  être  utilisé sur PC et smartphone facilement et par tout le monde</p>
+top.article3.tutorial_button.text=Mode d'emploi
+
+top.article4.subject=Compte Twitter officiel
+top.article4.contents=<p>"fuseta" tweet en utilisant le service Fusetter</p>
+
+
+
+
+
+
+
+language.meta.title=Paramétrage  de Langues
+language.message=Sélectionnez une langue
+language.item.ja=日本語
+language.item.ko=한국어
+language.item.en=English (United States)
+language.item.zh=中文(繁体)
+language.item.fr=Français
+
+
+
+
+home.meta.title=Accueil
+home.step1.caption=Ecrivons un Tweet
+home.step1.text=entre [], ecrivez le texte que vous souhaitez caché
+home.step1.sample_text=Un petit exemple : Aujourd'hui, nous nous rencontrons à [la gare de Shibuya]
+home.step1.add_brackets=Ajoutez les crochets -> [ ]
+home.step1.preview_text=Aperçu du Tweet avant publication
+home.step1.note_link=Ecrire plus !!!
+home.step1.note_link_comment=[ ] 100000 caractères max
+home.step1.note_caption=Impossible d'écrire + de 100000 caractères
+home.step1.note_text=Ecrire ici ce que l'on souhaite ne pas être vu sur twitter
+home.step1.note_sample_link=Affichage des options de visibilité
+home.step1.preview_link=Activez l'aperçu automatique
+home.step1.preview_hide_link=Cachez
+
+home.step2.caption=Niveau de confidentialité
+home.step2.text=Définir qui va pouvoir voir le contenu caché du tweet
+
+home.scope.all.description=Tout le monde peut voir le tweet même les personnes sans compte Twitter
+home.scope.follower.description=Visible de Vos followers
+home.scope.friend.description=Visible de Vos amis
+home.scope.mention.description=Aucun nom avec @
+home.scope.myself.description=Visi de Moi
+home.scope.retweet.description=Visible des personnes qui ont retweetés
+
+home.scope.load_list=Sélection depuis la liste
+home.scope.reload_list=Refraîchir la liste
+home.scope.load_list_description=Vous avez la possibilité de sélectionner les utilisateurs dans la "liste de divulgation"
+home.list.api_error=Limite de Twiteer atteinte (15 fois en 15 minutes) <br/>Veuillez patienter
+home.scope.no_list=Aucune liste trouvée. Avec une liste sur Twitter, vous pouvez envoyer des tweets masqués à des membres d'une liste.
+
+home.step3.caption=Publication du tweet
+home.step3.text=Possibilité d'avoir un aperçu avant publication.
+home.step3.confirm_button=Aperçu
+home.step3.post_button=Envoie
+
+home.sope.list.text_prefix=Permettre l'accès à &quot;
+home.sope.list.text_suffix=&quot; liste
+
+home.tweet.empty_message=Saisir le message
+home.tweet.tweet_over_message=jusqu'à 116 caractères max
+home.tweet.no_scope_message=Sélectionnez le niveau de visibilité
+home.tweet.no_mension_message=Rajoutez des utilisateurs
+home.tweet.no_fuse_message=Aucun mot n'est masqué!! Etes-vous sûr ?
+home.tweet.note_over_message=Impossible d'envoyer le tweet. Pas plus de 100000 caractères s'il vous plait.
+home.mestion.no_mension=Aucun des comptes ajoutés ne possèdent le @
+home.mestion.mension_prefix=Visible pour
+home.mestion.mension_suffix=OK
+
+
+confirm.meta.title=Confirmation du Tweet
+confirm.message=Vérifier le contenu avant publication
+confirm.twitter.message=<span>Publier le contenu sur</span> Twitter
+confirm.twitter.hint=*http://fse.tw/xxxxx : Si vous cliquez sur le lien , vous pourrez voir le contenu depuis le site de fusetter
+confirm.fusetter.message=<span>Affichage depuis</span> Fusetter
+confirm.scope=Niveau de divulgation
+confirm.modify.button=Modifier
+confirm.tweet.button=Envoie
+
+
+
+
+mypage.meta.title=Ma page d'accueil
+mypage.archive.all_label=Tout
+mypage.archive.yyyymm_format=yyyy/MM
+mypage.old.section=Historique des tweets
+mypage.old.no_entry=Pas de contributions
+mypage.old.load_next=Suite
+mypage.archive.section=Archives
+mypage.delete.confirm=Supprimez ce tweet ? (Ce tweet sur le compte sera aussi supprimé)
+mypage.delete.button=Suppression
+mypage.loading_failed.text=Echec du chargement....
+mypage.load_list.link=Sèlectionnez depuis la liste
+mypage.reload_list.link=Rafraîchir la liste
+mypage.list.api_error=Limite de Twiteer atteinte (15 fois en 15 minutes) <br/>Veuillez patienter
+mypage.modify.button=Modifier
+mypage.saved.message=Sauvegarder
+mypage.save.button=Sauvegarde
+mypage.cancel.button=Annuler
+mypage.readmore=Lire la suite
+mypage.readmore.close=Fermer
+
+logout.meta.title=Déconnexion
+logout.message=Déconnexion depuis Fusetter
+
+complete.meta.title=Tweet envoyé
+complete.message.first=Bravo pour votre premier tweet avec Fusetter d(*⌒▽⌒*)b
+complete.message.max=4
+complete.message.1=Tweet envoyé<br>MERCI !!!!
+complete.message.2=Tweet envoyé<br>Si vous utilisez Fusetter, vous pouvez écrire jusqu'à 100000 caractères
+complete.message.3=Tweet envoyé<br>Depuis Ma page d'accueil je peux voir mes tweets postés
+complete.message.4=Tweet envoyé<br>Si vous définissez le niveau de divulgation sur "Tous", vous pouvez lire le texte sans authentification Twitter
+complete.fuseta.caption=Vous connaissez FUSETA ?
+complete.fuseta.message=Sur le compte officiel de l'application , vous pouvez voir des tweets de FUSETA utilisant le service Fusetter (＾▽＾)
+complete.fuseta.link=Devenez un Follower (＾ｕ＾)
+complete.next.button=Twitter !!!!
+complete.delete_hint.prefix=* Le tweet que vous venez de poster peut être supprimé depuis
+complete.delete_hint.text="Ma page d'accueil"
+complete.delete_hint.suffix=.
+
+
+
+
+show_common.note.prefix=
+show_common.note.suffix= caractères ont été ajoutés
+show_common.top_link.prefix=Pour en savoir plus sur Fusetter,
+show_common.top_link.text=direction la Page Principale
+show_common.top_link.suffix=
+show_common.home_link.text=Twitter le message en mode "fusetter"
+show_common.twittercard_title=Niveau de divulgation:
+show_common.twittercard_description=Un service pour twitter des messages dont une partie du contenu n'est visible que par
+
+show_auth.title.prefix=Tweet de @
+show_auth.title.suffix=
+show_auth.message=Authentification à Twitter requise. <br> Vous ne pourrew peut être pas voir le contenu de ce tweet. Cela dépend du niveau de confidentialité <br>
+show_auth.show.button=Affichez le contenu caché.
+
+show.title.prefix=Tweet de @
+show.title.suffix=
+show.tutorial_button.text=Comment utiliser Fusetter !!!
+
+
+show_sorry.title.prefix=Tweet de @
+show_sorry.title.suffix=
+show_sorry.message=Désolé , vous ne pouvez pas voir le contenu ce tweet
+show_sorry.follow_hint.prefix=Devenz un follower de @
+show_sorry.follow_hint.suffix= et vous pourrez voir le contenu
+show_sorry.retweet_hint=Retweet pour voir le message.
+
+
+show_limit_over.title.prefix=Tweet de @
+show_limit_over.title.suffix=
+show_limit_over.message.prefix=Limite de Twiteer atteinte (15 fois en 15 minutes) <br/>Veuillez patienter
+show_limit_over.message.suffix= minutes
+
+
+
+
+error.meta.title=Erreurs
+
+agreement.meta.title=Conditions d’utilisation
+privacy.meta.title=Engagement de confidentialité
+
+company.meta.title=Compagnie
+company.caption=Notre Société
+company.message=<p>Shinko est une société dont le coeur de métier est l'IT sous toutes ces formes. Conseils , Design d'infrastructure , Développement d'applications et management opérationnel.</p><p> Depuis sa création en 1930, notre entreprise a su évoluer en adéquation avec l'industrie japonaise et maintenant mondiale. La phiklosophie de Shinko pourrait se résumer ainsi : Toujours dépasser les attentes de nos partenaires.</p><p>Avec notre expertise de plus de 80 ans, nous continuerons tout de même à tester de nouvelles solutions et technologies pour apporter à nos partenaires et futurs clients une expertise à la pointe et une expérience toujours aussi plaisante.</p>
+company.link=Page d'accueil de Shinko Technomist
+
+
+tutorial.meta.title=Utilisation de Fusetter
+tutorial.title=Utilisation de Fusetter
+tutorial.step1.title=1.Authentification
+tutorial.step1.text=<p>Pour utiliser Fusetter, rien de plus simple. Un compte twitter suffit !!!</p>
+tutorial.step2.title=2.Autorisez l'accès à fusetter
+tutorial.step3.title=3.Ecrivez votre Tweet
+tutorial.last.message=Avez vous compris le fonctionnement de Fusetter? Si vous avez des questions, n'hésitez pas à nous envoyé un message.<a href="https://twitter.com/fusetter" target="_blank">@fusetter</a>.
+
+twitter_auth.meta.title=A propos des règles d'accès
+twitter_auth.title=Accès aux données
+twitter_auth.text=<p>Ne vous inquiétez pas. Nous ne partagerons aucunes informations ou apporterons aucunes modifications de vos paramètres sans votre consentement.（Ces 4 éléments sont nécesaire par conséquent vous ne pouvez pas permettre seulemt "tweet"） </p>
+
+
+
+
+
+
+
+
+
+mypage.scope.balloon_title=Souhaitez vous rendre public l'accès à votre page ?
+mypage.scope.balloon_message=Si vous rendez public l'accès à votre page, la liste de vos tweets sera accessible via une URL spécifique.<br>Actuellement, le mode défini est «privé». <br> Si vous passez votre page en mode "public", le niveau de confidentialité de vos tweets sera conservé.
+
+mypage.scope.public=Confidentiel
+mypage.scope.private=Non confidentiel
+mypage.scope_state.public=Public
+mypage.scope_state.private=Privé
+mypage.public.url=URL pour publier "Ma page" :
+
+mypage.set_scope.failed_message=Echec de la modification du niveau de confidentialité
+mypage.scope.label=Ma page d'accueil:
+
+userpage.title.prefix=Tweet de @
+userpage.title.suffix=
+
+userpage.message_caption.prefix=Tweet de @
+userpage.message_caption.suffix=
+userpage.message=Pour voir la liste complète des twets, vous devez avoir une autorisation depuis Twitter.<br>Lorsque vous définissez vos tweets en mode "Privé",seul vos followers peuvent les voir.
+
+userpage.auth_button.prefix=Voir les tweets de @
+userpage.auth_button.suffix=
+
+userpage.api_error=Limite de Twiteer atteinte (15 fois en 15 minutes) <br/>Veuillez patienter
+userpage.favorite.hint=Ajoutez aux Favoris
+show_common.userpage_link.text_prefix=Voir plus de tweets de @
+show_common.userpage_link.text_suffix=
+
+
+mypage.use_views.label=Nombre de vus
+mypage.use_views.on=Voir
+mypage.use_views.off=Cacher
+mypage.set_scope.failed_message=Echec de l7affichage des vus
+
+
+
+
+
+
+
+
+menu.favorite=Favoris
+favorite.title=Favoris
+favorite.message=Cachez les tweets marqués comme favoris
+favorite.no_entry=Aucun tweet
+
+home.draft_confirm_message= Voulez-vous écrire plus ?
+
+show.pr_message.max=5
+show.pr_message.1=En utilisant cette option, vous pouvez écrire jusqu'à 100000 caractères!!!
+show.pr_message.2=Vous pouvez visionner vos tweets récents depuis "Ma Page"
+show.pr_message.3=Si vous sélectionnez le niveau de confidentialité "Tout le monde", le contenu masqué pourra être vu par tous sans authentification twitter.
+show.pr_message.4=Si vous continuez de publier des tweets, vous pouvez les lire depuis l'onglet Favoris
+show.pr_message.5=Fusetter compte déjà plus de 14 000 000 d'utilisateurs de par le monde.
+
+home.tweet_mode.label= Mode Tweet
+home.tweet_mode.standard=Standard
+home.tweet_mode.simple=Simplifié
+home.tweet_mode.switch_to_standard=Basculez en mode Standard
+home.tweet_mode.switch_to_simple=Basculez en mode Simple
+
+
+simple.meta.title=Mode Simplifié
+simple.step.caption= Masquez des mots dans votre tweet ^_^
+simple.post_button= Tweetez
+simple.text.hint= Les lignes suivantes seront masquées automariquement. Niveau de confidentialité "Followers"
+simple.text.sample=Ici , les mots ne sont pas masqués \nLes mots sont masqués

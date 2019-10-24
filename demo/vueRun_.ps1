@@ -1,0 +1,1 @@
+npm -prefix C:\workspace\demo\demo run serve;
